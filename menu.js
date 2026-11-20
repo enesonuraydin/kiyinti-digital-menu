@@ -283,7 +283,7 @@ const menu = [
       {
         "name": "Full Karışık",
         "prices": [
-          180
+          280
         ],
         "description": "dana sucuk, dana sosis, dana salam, kaşar peynir ve özel sos"
       },
@@ -386,7 +386,7 @@ const menu = [
       {
         "name": "Full Karışık",
         "prices": [
-          180
+          280
         ],
         "description": "dana sucuk, dana sosis, dana salam, kaşar peynir, kekik ve özel sos"
       },
@@ -438,39 +438,6 @@ const menu = [
           250
         ],
         "description": "dana sucuk, dana salam, cheddar peynir, kaşar peynir, kekik ve özel sos"
-      }
-    ]
-  },
-  {
-    "name": "Islak Hamburger",
-    "products": [
-      {
-        "name": "Islak Hamburger",
-        "prices": [
-          150
-        ],
-        "description": "dana köfte ve özel sos"
-      },
-      {
-        "name": "Kaşarlı Islak Hamburger",
-        "prices": [
-          170
-        ],
-        "description": "kaşar peynir, dana köfte ve özel sos"
-      },
-      {
-        "name": "Cheddarlı Islak Hamburger",
-        "prices": [
-          170
-        ],
-        "description": "cheddar peynir, dana köfte ve özel sos"
-      },
-      {
-        "name": "Amerikanlı Islak Hamburger",
-        "prices": [
-          170
-        ],
-        "description": "Amerikan salatası, dana köfte ve özel sos"
       }
     ]
   },
