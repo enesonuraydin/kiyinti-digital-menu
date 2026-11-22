@@ -1,1 +1,6 @@
-V0.4: 92 ürün, 10 kategori. 12 yapay zeka ile oluşturulmuş temsili fotoğraf, ürün ailelerine göre tekrar kullanılır. Gerçek ürün fotoğraflarıyla değiştirilebilir. Yönetim paneli önceki yerel prototiptir; canlı veritabanı yoktur. GitHub ana dizinine yükleyin.V0.5: Premium ana sayfa, seçki vitrini ve SVG navigasyon. Görseller temsilidir.
+V0.6
+- config.js: WhatsApp, telefon, adres, çalışma saatleri ve harita bağlantısını doldurun; boş alanlar görünmez.
+- admin.html arama motorlarından gizlendi (noindex). Gerçek koruma için Cloudflare Zero Trust > Access > Applications > Self-hosted ile /admin.html yoluna e-posta girişi ekleyin.
+- Paylaşım önizlemesi (og tagleri) ve favicon eklendi. Alan adı değişirse index.html içindeki og:url ve og:image adreslerini güncelleyin.
+- Görseller temsilidir. Yönetim paneli yerel taslaktır; yayınlamak için menu.js indirilip yüklenir.
+GitHub ana dizinine yükleyin.
